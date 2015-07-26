@@ -1,2 +1,3 @@
-# webpack-notes
-My personal cheatsheet for Webpack
+![](pablo.png)
+
+TBD (see [examples](examples) directory for now).
